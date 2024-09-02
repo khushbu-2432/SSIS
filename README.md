@@ -13,4 +13,5 @@ Explored the architecture of SSIS, understanding how its components work togethe
 Successfully installed and configured SSIS on my local environment, setting up SQL Server Data Tools (SSDT) for developing SSIS packages.
 I’m excited about what’s next as I continue to build on this foundation and dive deeper into creating and managing ETL processes using SSIS.
 Stay tuned for updates as I continue this learning journey over the next few days!
-hashtag#LearningJourney hashtag#ETL hashtag#SSIS hashtag#DataIntegration hashtag#SQLServer hashtag#ProfessionalDevelopment
+
+#LearningJourney hashtag#ETL hashtag#SSIS hashtag#DataIntegration hashtag#SQLServer hashtag#ProfessionalDevelopment
